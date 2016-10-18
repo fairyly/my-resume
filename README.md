@@ -20,7 +20,7 @@
 
 * 掌握的JavaScript类库：jQuery、Zepto
 * 掌握的JavaScript框架：Vuejs、Angular.js、React.js
-* 掌握的CSS预编译器：LessCss、Sass
+* 掌握的CSS预编译器：Less、Sass
 * 了解AMD和CMD规范
 * 掌握JavaScript模块加载器：RequireJS、Browserify、sea.js
 * 掌握项目构建工具：Grunt、Gulp
