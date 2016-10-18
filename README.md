@@ -18,16 +18,17 @@
 
 专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
 
-* 掌握的JavaScript类库：jQuery、Prototype
-* 掌握的JavaScript框架：BackBone、Vuejs、Angular.js、React.js
+* 掌握的JavaScript类库：jQuery、Zepto
+* 掌握的JavaScript框架：Vuejs、Angular.js、React.js
 * 掌握的CSS预编译器：LessCss、Sass
-* 掌握JavaScript模块加载器：RequireJS、Browserify
+* 了解AMD和CMD规范
+* 掌握JavaScript模块加载器：RequireJS、Browserify、sea.js
 * 掌握项目构建工具：Grunt、Gulp
 * 掌握项目管理和协同工具的使用：SVN、Git
-* 掌握前端测试框架以及工具：Jasmine、Mocha
-* 掌握基本后端开发：NodeJS、Python
+* 掌握前端测试框架以及工具：Jasmine
+* 掌握基本后端开发：NodeJS、Java、jsp
 * 掌握web相关技术：MongoDB、CoffeeScript、SEO、Socket.io、Express、Tornado等
-*了解过云平台：SAE/BAE
+* 了解过云平台：SAE/BAE
 ##个人经历
 
 * 
