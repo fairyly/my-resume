@@ -27,7 +27,7 @@
 * 掌握前端测试框架以及工具：Jasmine、Mocha
 * 掌握基本后端开发：NodeJS、Python
 * 掌握web相关技术：MongoDB、CoffeeScript、SEO、Socket.io、Express、Tornado等
-
+*了解过云平台：SAE/BAE
 ##个人经历
 
 * 
