@@ -25,7 +25,7 @@
 * 熟悉bootstrap、jquery moblie框架
 * 掌握JavaScript模块加载器：RequireJS、Browserify、sea.js
 * 掌握项目构建工具：Yeoman Grunt、Gulp
-* 掌握项目管理和协同工具的使用：SVN、Git
+* 掌握项目管理和协同工具的使用：Git、SVN
 * 掌握前端测试框架以及工具：Jasmine
 * 掌握基本后端开发：NodeJS、Java、jsp
 * 掌握web相关技术：MongoDB、CoffeeScript、SEO、Socket.io、Express、Tornado等
