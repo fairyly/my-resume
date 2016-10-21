@@ -1,8 +1,6 @@
 # myresume
 我的个人简历
-个人简历
 ======================
-的个人简历
 
 ## 个人信息
 
@@ -10,9 +8,9 @@
 
 **性别**：男
 
-**学校专业**：**中山大学**软件学院
+**学校专业**：
 
-**blog**：
+**blog**：[myblog](https://fairyly.github.io/myblog)
 
 ## 技术能力
 
@@ -24,6 +22,7 @@
 * 了解AMD和CMD规范
 * 了解HTTP协议以及浏览器运行原理
 * 了解ECMAScript6
+* 熟悉bootstrap、jquery moblie框架
 * 掌握JavaScript模块加载器：RequireJS、Browserify、sea.js
 * 掌握项目构建工具：Yeoman Grunt、Gulp
 * 掌握项目管理和协同工具的使用：SVN、Git
