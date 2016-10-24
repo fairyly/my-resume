@@ -21,7 +21,7 @@
 * 掌握的CSS预编译器：Less、Sass
 * 了解AMD和CMD规范
 * 了解HTTP协议以及浏览器运行原理
-* 了解ECMAScript6
+* 了解ECMAScript6以及javascript设计模式
 * 熟悉bootstrap、jquery moblie框架
 * 掌握JavaScript模块加载器：RequireJS、Browserify、sea.js
 * 掌握项目构建工具：Yeoman Grunt、Gulp
