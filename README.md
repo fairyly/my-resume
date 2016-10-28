@@ -10,7 +10,7 @@
 
 **学校专业**：河南中医药大学（原河南中医学院）计算机科学与技术
 
-**邮箱**：faithfriended@gmail.com
+**邮箱**：fairyilys@gmail.com
 
 **blog**：[myblog](https://fairyly.github.io/myblog)
 
