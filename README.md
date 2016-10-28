@@ -4,49 +4,38 @@
 
 ## 个人信息
 
-**姓名**：
+**姓名**：fairyly
 
 **性别**：男
 
-**学校专业**：
+**学校专业**：河南中医药大学（原河南中医学院）计算机科学与技术
+
+**邮箱**：
 
 **blog**：[myblog](https://fairyly.github.io/myblog)
 
+**我的github**：[https://github.com/fairyly](https://github.com/fairyly)
+
 ## 技术能力
 
-专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
-
+* 热爱web前端开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
 * 掌握的JavaScript类库：jQuery、Zepto
-* 掌握的JavaScript框架：Vuejs、Angular.js、React.js
+* 掌握的JavaScript框架：Angular.js，了解过React.js、Vue.js
 * 掌握的CSS预编译器：Less、Sass
+* 熟悉bootstrap、jquery moblie框架
+* 掌握JavaScript模块加载器：RequireJS,了解过Browserify、sea.js
+* 掌握项目构建工具：Yeoman Bower Grunt、Gulp
+* 掌握项目管理和协同工具的使用：Git、SVN
+* 熟练掌握markdown的使用
+* 了解后端开发：NodeJS、Express、MongoDB、Java、Jsp、MySQL
 * 了解AMD和CMD规范
 * 了解HTTP协议以及浏览器运行原理
 * 了解ECMAScript6以及javascript设计模式
-* 熟悉bootstrap、jquery moblie框架
-* 掌握JavaScript模块加载器：RequireJS、Browserify、sea.js
-* 掌握项目构建工具：Yeoman Grunt、Gulp
-* 掌握项目管理和协同工具的使用：Git、SVN
-* 掌握前端测试框架以及工具：Jasmine
-* 掌握基本后端开发：NodeJS、Java、jsp
-* 掌握web相关技术：MongoDB、CoffeeScript、SEO、Socket.io、Express、Tornado等
+* 了解前端测试框架以及工具：Jasmine Karma
 * 了解过云平台：SAE/BAE
-##个人经历
+##工作经历
 
-* 
-* 
-* 
-* 
-* 
-
-## 个人作品
-
-### [米芝]()
-项目地址：
-- 简介
-
-### [LiveChat](https://github.com)
-项目地址： 
-
+* 河南九象酒业有限公司（2015.3——2016.3）
 
 ## 自我简介
 
