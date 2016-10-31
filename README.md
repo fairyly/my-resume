@@ -18,7 +18,7 @@
 
 ## 技术能力
 
-* 热爱web前端开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
+* 热爱web前端开发，熟练掌握JavaScript、HTMl、CSS、Ajax、Json以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
 * 掌握的JavaScript类库：jQuery、Zepto
 * 掌握的JavaScript框架：Angular.js，了解过React.js、Vue.js
 * 掌握的CSS预编译器：Less、Sass
