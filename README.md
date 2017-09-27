@@ -28,6 +28,7 @@
 * 掌握项目管理和协同工具的使用：Git、SVN
 * 熟练掌握markdown的使用
 * 熟练微信小程序开发流程
+* 熟悉 PHP 开发
 * 了解后端开发：NodeJS、Express、MongoDB、Java、Jsp、MySQL
 * 了解AMD和CMD规范
 * 了解HTTP协议以及浏览器运行原理
@@ -51,7 +52,7 @@
 - 河南九象酒业有限公司（2014.3——2016.3）
   + 负责商城网站的页面改版，修改网站前端样式
   + 负责搭建公司网站以及对公司网站页面样式重写
-  + 工作期间认识到自己不足的地方，于是重新学习Html、css以及JavaScript基础部分，能全手写网站的前端页面，同时进一步熟悉了源码建站，熟练掌握论坛网站（如Discuz!和phpwind）、商城网站（如ECSHOP）、企业网站、博客网站以及织梦（DEDECMS）、帝国（EmpireCMS）等CMS网站的搭建和部署；
+  + 熟悉了源码建站，熟练掌握论坛网站（如Discuz!和phpwind）、商城网站（如ECSHOP）、企业网站、博客网站以及织梦（DEDECMS）、帝国（EmpireCMS）等CMS网站的搭建和部署；
   
 ## 自我简介
 
