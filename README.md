@@ -49,8 +49,8 @@
 
   
 - 邦瑞科技有限公司（2016.3——2017.3）
-  + 负责公司微友网站的页面开发以及与后台php的交互，主要使用 jQuery 及 jQuery 插件
-  + 负责开发公司的 [微商海报](http://www.wechatw.com/index.php/poster-index.html) 制作、图片加水印以及签到日历模块，主要使用 canvas
+  + 负责公司微友网站的页面开发以及与后台php的交互，主要使用 jQuery 及 jQuery 插件
+  + 负责开发公司的 [微商海报](http://www.wechatw.com/index.php/poster-index.html) 制作、图片加水印以及签到日历模块，主要使用 canvas
   + 工作期间对前端有了更深刻的认识，坚持下班学习，熟悉了原生的js和js的原型，对前端自动化和模块化也有了进一步了解，对前端的MVC也进一步熟悉
   
   
