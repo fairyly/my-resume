@@ -25,7 +25,7 @@
 * 熟悉bootstrap、jquery moblie框架
 * 掌握JavaScript模块加载器：RequireJS,了解过Browserify、sea.js
 * 掌握项目构建工具：Yeoman Bower Grunt、Gulp
-* 掌握项目管理和协同工具的使用：Git、SVN
+* 掌握版本管理工具：Git、SVN
 * 熟练掌握markdown的使用
 * 熟练微信小程序开发流程
 * 熟悉 PHP 开发
