@@ -20,19 +20,19 @@
 
 * 热爱web前端开发，熟练掌握JavaScript、HTMl、CSS、Ajax、Json以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
 * 掌握的JavaScript类库：jQuery、Zepto
-* 掌握的JavaScript框架：Vue.js、Angular.js，了解过React.js
+* 掌握的JavaScript框架：Vue.js、Angular.js，了解过 React.js
 * 掌握的CSS预编译器：Less、Sass
-* 熟悉bootstrap、jquery moblie框架
-* 掌握JavaScript模块加载器：RequireJS,了解过Browserify、sea.js
-* 掌握项目构建工具：Npm Yeoman Bower Grunt、Gulp
+* 熟悉 bootstrap、jquery moblie 框架
+* 掌握 JavaScript 模块加载器：RequireJS,了解过 Browserify、sea.js
+* 掌握项目构建工具：Npm Yeoman Bower Grunt、Gulp,了解 webpack
 * 掌握版本管理工具：Git、SVN
-* 熟练掌握markdown的使用
+* 熟练掌握 markdown 的使用
 * 熟练微信小程序开发流程
 * 熟悉 PHP 开发
 * 了解后端开发：NodeJS、Express、MongoDB、Java、Jsp、MySQL
-* 了解AMD和CMD规范
-* 了解HTTP协议以及浏览器运行原理
-* 了解ECMAScript6以及javascript设计模式
+* 了解 AMD 和 CMD 规范
+* 了解 HTTP 协议以及浏览器运行原理
+* 了解 ECMAScript6 以及 javascript 设计模式
 * 了解前端测试框架以及工具：Jasmine Karma
 * 了解过云平台：SAE/BAE
 
