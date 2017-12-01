@@ -42,6 +42,7 @@
   + 开发商城小程序  
     分层思想解决输入验证自动跳下一个输入框  
     重写商品规格分类选择  
+    重写分类树桩结构
 
 - 杭州微禾迅科技有限公司（2017.3——2017.9）  
   + 开发公司网站 [涂图](https://tutucloud.com)  [TUTU Magic SDK](https://magic.tutucloud.com/)  
