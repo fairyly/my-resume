@@ -49,7 +49,7 @@
     使用组件表格  
     使用wxcharts  
     
-  + 学习 NodeJS API
+  + 学习 NodeJS API  
     写 node 爬虫
 - 杭州微禾迅科技有限公司（2017.3——2017.9）  
   + 开发公司网站 [涂图](https://tutucloud.com)  [TUTU Magic SDK](https://magic.tutucloud.com/)  
