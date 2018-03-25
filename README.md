@@ -49,6 +49,8 @@
     使用组件表格  
     使用wxcharts  
     
+  + 使用vue+vuerouter+elementui开发观云台后台
+    
   + 学习 NodeJS API  
     写 node 爬虫
 - 杭州微禾迅科技有限公司（2017.3——2017.9）  
