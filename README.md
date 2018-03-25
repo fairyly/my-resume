@@ -44,12 +44,12 @@
     重写商品规格分类选择  
     重写分类树桩结构
     
-  + 开发观云台小程序
-    主要数据展现  
-    使用组件表格  
-    使用wxcharts  
+  + 开发观云台小程序  
+    主要数据展现   
+    使用组件表格   
+    使用wxcharts   
     
-  + 使用vue+vuerouter+elementui开发观云台后台
+  + 使用vue+vuerouter+elementui开发观云台后台  
     
   + 学习 NodeJS API  
     写 node 爬虫
