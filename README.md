@@ -83,3 +83,13 @@
 目前为止对于前端技术比较了解，目标是成为一名优秀的web前端工程师。
 
 拥有较强的学习能力和沟通能力，能够比较良好的和团队成员协同完成开发。
+
+
+### About Me
+My name is Yue Heqing. You can call me fiaryly. I was born in 1990s.
+
+I am an IT developer focusing on web technology. Now I am employed by damo as an Frontend Developer engineer.
+
+I have an Bachelor of Technology( B.Tech/ BE) degree.
+
+In spare time, I like reading book, surfing internet, watching movie and taking a leisurely walk outdoors.
