@@ -86,7 +86,7 @@
 
 
 ### About Me
-My name is Yue Heqing. You can call me fiaryly. I was born in 1990s.
+My name is Yue Heqing. You can call me fairyly. I was born in 1990s.
 
 I am an IT developer focusing on web technology. Now I am employed by damo as an Frontend Developer engineer.
 
