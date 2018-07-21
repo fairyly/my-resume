@@ -42,21 +42,30 @@
   + 开发商城小程序   
     分层思想解决输入验证自动跳下一个输入框  
     重写商品规格分类选择  
-    重写分类树桩结构
+    重写分类树状结构
     
   + 开发观云台小程序  
     主要数据展现   
     使用组件表格   
     使用wxcharts   
     
-  + 使用vue+vuerouter+elementui开发观云台后台  
+  + 使用 vue+vuerouter+elementui 开发观云台后台  
     开发 Vue 插件，打包发布公司私有 cnpm 服务器
 
   + 学习 NodeJS API  
     写 node 爬虫
     看 《了不起的 Node.js》、《Node.js in Action》、《Node.js 实战(第2季)》
     [使用 node+express+mongodb 写博客](https://desolate-coast-83590.herokuapp.com/posts)
-- 杭州微禾迅科技有限公司（2017.3——2017.9）  
+    
+  + 使用 vue+vuerouter+elementui 开发集团后台
+    开发 vue 公共组件，
+    比较复杂的一个自定义配置模板
+   
+  + [Gitlab 本地部署](https://github.com/fairyly/mynodejs/blob/gh-pages/Gitlab%20%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2.md)
+    ubantu 18.04 LTS 部署 gitlab 
+    gitlab 11.04
+
+- 杭州微禾迅科技有限公司（2017.3——2017.9）   
   + 开发公司网站 [涂图](https://tutucloud.com)  [TUTU Magic SDK](https://magic.tutucloud.com/)  
     主要是基于 YII 框架的开发，负责网站前端页面渲染和页面交互以产品展示模块的开发，使用 Gulp 构建，scss 预编译；
   + 开发地铁安防项目   
