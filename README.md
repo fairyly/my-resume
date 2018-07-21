@@ -24,7 +24,7 @@
 * 掌握的 CSS 预编译器：Less、Sass
 * 熟悉 bootstrap、jquery moblie 框架
 * 掌握 JavaScript 模块加载器：RequireJS,了解过 Browserify、sea.js
-* 掌握项目构建工具：Npm Yeoman Bower Grunt、Gulp,了解 webpack
+* 掌握项目构建和包管理工具：Npm、Yarn、Yeoman、Bower、Grunt、Gulp、 webpack
 * 掌握版本管理工具：Git、SVN
 * 熟练掌握 markdown 的使用
 * 熟练微信小程序开发
