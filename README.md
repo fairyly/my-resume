@@ -18,18 +18,19 @@
 
 ## 技术能力
 
-* 热爱web前端开发，熟练掌握JavaScript、HTMl、CSS、Ajax、Json以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
-* 掌握的JavaScript类库：jQuery、Zepto
-* 掌握的JavaScript框架：Vue.js、Angular.js，了解过 React.js
-* 掌握的CSS预编译器：Less、Sass
+* 热爱 web 前端开发，熟练掌握 JavaScript、HTMl5、CSS3、Ajax、Json 以及 JavaScript 框架来搭建 web 应用
+* 熟悉原生 JavaScript 和 JavaScript 类库的使用
+* 掌握的 JavaScript 框架：Vue.js，了解过 Angular.js、 React.js
+* 掌握的 CSS 预编译器：Less、Sass
 * 熟悉 bootstrap、jquery moblie 框架
 * 掌握 JavaScript 模块加载器：RequireJS,了解过 Browserify、sea.js
 * 掌握项目构建工具：Npm Yeoman Bower Grunt、Gulp,了解 webpack
 * 掌握版本管理工具：Git、SVN
 * 熟练掌握 markdown 的使用
-* 熟练微信小程序开发流程
+* 熟练微信小程序开发
 * 熟悉 PHP 开发
-* 了解后端开发：NodeJS、Express、MongoDB、Java、Jsp、MySQL
+* 熟悉 NodeJS、Express、MongoDB
+* 了解 egg、koa 、Java、Jsp、MySQL
 * 了解 AMD 和 CMD 规范
 * 了解 HTTP 协议以及浏览器运行原理
 * 了解 ECMAScript6 以及 javascript 设计模式
