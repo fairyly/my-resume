@@ -60,7 +60,7 @@
     [使用 node+express+mongodb 写博客](https://desolate-coast-83590.herokuapp.com/posts)  
     
   + 使用 vue+vuerouter+elementui 开发集团后台  
-    开发 vue 公共组件，  
+    开发 vue 公共组件，公共插件发布 cnpm 服务器，  
     比较复杂的一个自定义配置模板  
    
   + [Gitlab 本地部署](https://github.com/fairyly/mynodejs/blob/gh-pages/Gitlab%20%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2.md)  
