@@ -60,7 +60,7 @@
     写 node 爬虫  
     看 《了不起的 Node.js》、《Node.js in Action》、《Node.js 实战(第2季)》  
     [heroku 部署](https://github.com/fairyly/html-demo/blob/gh-pages/heroku%20%E9%83%A8%E7%BD%B2.md)  
-    [使用 node+express+mongodb 写博客](https://desolate-coast-83590.herokuapp.com/posts)  
+    [使用 node+express+mongodb 开发博客系统](https://desolate-coast-83590.herokuapp.com/posts)  
     
   + 使用 vue+vuerouter+elementui 开发集团后台  
     开发 vue 公共组件，公共插件发布 cnpm 服务器，  
