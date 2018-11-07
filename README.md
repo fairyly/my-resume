@@ -68,7 +68,7 @@
     ubantu 18.04 LTS 部署 gitlab   
     gitlab 11.04  
 
-  + python 学习
+  + python 学习  
     使用 python3 开发网路爬虫  
   + 使用 Node 开发 cli 工具
 
