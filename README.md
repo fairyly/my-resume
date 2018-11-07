@@ -31,6 +31,7 @@
 * 熟练微信小程序开发
 * 熟悉 PHP 开发
 * 熟悉 NodeJS、Express、MongoDB
+* 熟练使用 python3 开发网路爬虫
 * 了解 egg、koa 、Java、Jsp、MySQL
 * 了解 AMD 和 CMD 规范
 * 了解 HTTP 协议以及浏览器运行原理
