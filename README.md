@@ -13,6 +13,8 @@
 
 **邮箱**：fairyilys@gmail.com
 
+**微信号**: Fairyily
+
 **blog**：[myblog](https://fairyly.github.io/myblog)
 
 **我的github**：[https://github.com/fairyly](https://github.com/fairyly)
