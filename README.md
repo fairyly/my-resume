@@ -48,18 +48,18 @@
     - 开发积分商城
     
   + 开发观云台小程序  
-    主要数据展现   
-    开发表格组件  
-    使用 wxcharts   
+    - 主要数据查询分析展现   
+    - 开发表格组件  
+    - 使用 wxcharts   
     
   + 使用 vue+vuerouter+elementui 开发观云台后台  
-    开发 Vue 插件，打包发布公司私有 cnpm 服务器  
+    - 开发 Vue 插件，打包发布公司私有 cnpm 服务器  
 
   + 学习 NodeJS API    
-    写 node 爬虫  
-    看 《了不起的 Node.js》、《Node.js in Action》、《Node.js 实战(第2季)》  
-    [heroku 部署](https://github.com/fairyly/html-demo/blob/gh-pages/heroku%20%E9%83%A8%E7%BD%B2.md)  
-    [使用 node+express+mongodb 开发博客系统](https://desolate-coast-83590.herokuapp.com/posts)  
+    - 写 node 爬虫  
+    - 看 《了不起的 Node.js》、《Node.js in Action》、《Node.js 实战(第2季)》  
+    - [heroku 部署](https://github.com/fairyly/html-demo/blob/gh-pages/heroku%20%E9%83%A8%E7%BD%B2.md)  
+    - [使用 node+express+mongodb 开发博客系统](https://desolate-coast-83590.herokuapp.com/posts)  
     
   + 使用 vue+vuerouter+elementui 开发集团后台  
     - 开发 vue 公共组件，公共插件发布 cnpm 服务器，  
@@ -67,11 +67,11 @@
     - 推动项目组使用 Yapi 可视化接口管理工具，推动前端 git commit 规范化
    
   + [Gitlab 本地部署](https://github.com/fairyly/mynodejs/blob/gh-pages/Gitlab%20%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2.md)  
-    ubantu 18.04 LTS 部署 gitlab   
-    gitlab 11.04  
+    - ubantu 18.04 LTS 部署 gitlab   
+    - gitlab 11.04  
 
   + python 学习  
-    [使用 python3 开发网路爬虫笔记](https://github.com/fairyly/python)  
+    - [使用 python3 开发网路爬虫笔记](https://github.com/fairyly/python)  
     
   + 使用 Node 开发 cli 工具
 
@@ -84,14 +84,14 @@
 
 - 杭州微禾迅科技有限公司（2017.3——2017.9）   
   + 开发公司网站 [涂图](https://tutucloud.com)  [TUTU Magic SDK](https://magic.tutucloud.com/)  
-    主要是基于 YII 框架的开发，负责网站前端页面渲染和页面交互以产品展示模块的开发，  
-    人脸检测,年龄检测,性别检测,人脸标点等 demo 的开发和接口对接，  
-    使用 Gulp 构建，scss 预编译；
+    - 主要是基于 YII 框架的开发，负责网站前端页面渲染和页面交互以产品展示模块的开发，  
+    - 人脸检测,年龄检测,性别检测,人脸标点等 demo 的开发和接口对接，  
+    - 使用 Gulp 构建，scss 预编译；
   + 开发地铁安防项目   
-    采用前后端分离开发，主要负责前端所有页面展示和交互以及与后台接口对接，使用 vuejs+elementUI 开发整个前端部分；
+    - 采用前后端分离开发，主要负责前端所有页面展示和交互以及与后台接口对接，使用 vuejs+elementUI 开发整个前端部分；
   + 开发考试作弊检测项目  
-    前后端分离，负责开发前端所有页面渲染和页面交互，主要使用 Jquery 做页面交互、分页以及接口对接，使用 Gulp 构建
-  + 工作期间接触 PHP 较多，也在学习 PHP 开发，使用 ThinkPHP5开发项目,[之梦](http://yuelao.ahchaonong.com)
+    - 前后端分离，负责开发前端所有页面渲染和页面交互，主要使用 Jquery 做页面交互、分页以及接口对接，使用 Gulp 构建
+  + 工作期间接触 PHP 较多，学习 PHP 开发，使用 ThinkPHP5 开发个人项目,[之梦信息发布系统](http://yuelao.ahchaonong.com)
 
   
 - 邦瑞科技有限公司（2016.3——2017.3）
