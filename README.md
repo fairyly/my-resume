@@ -61,7 +61,8 @@
     
   + 使用 vue+vuerouter+elementui 开发集团后台  
     开发 vue 公共组件，公共插件发布 cnpm 服务器，  
-    比较复杂的如会员开卡字段自定义配置模板组件、人群筛选器插件、会员标签配置组件、积分归属结算组件
+    比较复杂的如会员开卡字段自定义配置模板组件、人群筛选器插件、会员标签配置组件、积分归属结算组件  
+    推动项目组使用 Yapi 可视化接口管理工具，推动前端 git commit 规范化
    
   + [Gitlab 本地部署](https://github.com/fairyly/mynodejs/blob/gh-pages/Gitlab%20%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2.md)  
     ubantu 18.04 LTS 部署 gitlab   
@@ -69,6 +70,7 @@
 
   + python 学习  
     使用 python3 开发网路爬虫  
+    
   + 使用 Node 开发 cli 工具
 
   + 使用 Hapi 开发 RESTful APIs
