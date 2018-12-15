@@ -37,7 +37,7 @@
 * 了解 HTTP 协议以及浏览器运行原理
 * 了解 ECMAScript6 以及 javascript 设计模式
 * 了解前端测试框架以及工具：Mocha、Karma、断言库 Chai 
-* 了解过云平台：SAE/BAE
+
 
 ## 工作经历
 
