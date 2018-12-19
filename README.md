@@ -128,4 +128,4 @@ I am an IT developer focusing on web technology. Now I am employed by damo as an
 
 I have an Bachelor of Technology( B.Tech/ BE) degree.
 
-In spare time, I like reading book, surfing internet, watching movie and taking a leisurely walk outdoors.
+In spare time, I like reading book, surfing internet, watching movie and running,mountain and trips.
