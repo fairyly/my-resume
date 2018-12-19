@@ -29,6 +29,7 @@
 * 掌握项目构建和包管理工具：Npm、Yarn、Gulp、 webpack
 * 熟练掌握版本管理工具：Git、SVN
 * 熟练微信小程序开发
+* 熟悉 Hybrid H5 混合开发
 * 熟悉 PHP 开发
 * 熟悉 NodeJS、Express、MongoDB
 * 熟练使用 python3 开发网路爬虫
