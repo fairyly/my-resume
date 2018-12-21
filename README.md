@@ -79,6 +79,8 @@
     
   + 使用 Node 开发 cli 工具
 
+  + 使用 jsBridge 与原生 APP 通信
+
   + 使用 Hapi 开发 RESTful APIs
     - [掘金文章](https://juejin.im/post/5b5d7c7951882562b92491d8)
     - [Hapi-demo](https://github.com/fairyly/Hapi-demo)
