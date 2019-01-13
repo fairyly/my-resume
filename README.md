@@ -58,7 +58,7 @@
   + 使用 vue+vuerouter+elementui 开发观云台后台  
     - 开发 Vue 插件，打包发布公司私有 cnpm 服务器  
 
-  + 学习 NodeJS API    
+  + 看 NodeJS API    
     - 写 node 爬虫  
     - 看 《了不起的 Node.js》、《Node.js in Action》、《Node.js 实战(第2季)》  
     - [heroku 部署](https://github.com/fairyly/html-demo/blob/gh-pages/heroku%20%E9%83%A8%E7%BD%B2.md)  
@@ -74,7 +74,7 @@
     - ubantu 18.04 LTS 部署 gitlab   
     - gitlab 11.04  
 
-  + python 学习  
+  + python3 开发网路爬虫  
     - [使用 python3 开发网路爬虫笔记](https://github.com/fairyly/python)  
     
   + 使用 Node 开发 cli 工具
