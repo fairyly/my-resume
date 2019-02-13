@@ -89,6 +89,8 @@
     - [docker 笔记](https://github.com/fairyly/docker_study)
     
   + 开发 vue 2.x UI-Toolkit
+  
+  + 使用 vue-cli3 + vant 开发移动端项目
 
 - 杭州微禾迅科技有限公司（2017.3——2017.9）   
   + 开发公司网站 [涂图](https://tutucloud.com)  [TUTU Magic SDK](https://magic.tutucloud.com/)  
