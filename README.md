@@ -92,6 +92,12 @@
   
   + 使用 vue-cli3 + vant 开发移动端项目
 
+  + 用户管理小系统
+    - [前端：react16.8-antd3.15-demo](https://github.com/react-study-demo/react16.8-antd3.15-demo)
+      - [react 入门笔记](https://github.com/fairyly/react_study)
+    - [后端 API: Egg.js](https://github.com/fairyly/eggdemo/tree/eggpro)
+      - [Egg 入门笔记](https://github.com/fairyly/eggdemo/tree/gh-pages)
+
 - 杭州微禾迅科技有限公司（2017.3——2017.9）   
   + 开发公司网站 [涂图](https://tutucloud.com)  [TUTU Magic SDK](https://magic.tutucloud.com/)  
     - 主要是基于 YII 框架的开发，负责网站前端页面渲染和页面交互以产品展示模块的开发，  
@@ -115,6 +121,17 @@
   + 负责搭建公司网站以及对公司网站页面样式重写
   + 熟悉原生的js和js的原型，对前端自动化和模块化也有了进一步了解，对前端的MVC也进一步熟悉
   + 熟悉源码建站，熟练掌握论坛网站（如 Discuz! 和 phpwind ）、商城网站（如 ECSHOP ）、企业网站、博客网站以及织梦（ DEDECMS ）、帝国（ EmpireCMS ）等CMS网站的搭建和部署；
+
+## 微信小程序 预览
+
+![](https://user-gold-cdn.xitu.io/2019/5/7/16a92c388241e092?w=425&h=422&f=png&s=95267)
+
+## 支付宝小程序 预览
+
+- [前端技术查询 demo 源码(未上线)](https://github.com/alipay-antapp/weather)
+
+![](https://user-gold-cdn.xitu.io/2019/5/7/16a92872f06e26bd?w=234&h=240&f=png&s=18329)
+
   
 ## 自我简介
 
