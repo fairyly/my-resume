@@ -124,12 +124,14 @@
 
 ## 微信小程序 预览
 
+- '查询小工具集' 预览：
 ![](https://user-gold-cdn.xitu.io/2019/5/7/16a92c388241e092?w=425&h=422&f=png&s=95267)
 
 ## 支付宝小程序 预览
 
 - [前端技术查询 demo 源码(未上线)](https://github.com/alipay-antapp/weather)
 
+- '本地天气查询'小程序 预览：
 ![](https://user-gold-cdn.xitu.io/2019/5/7/16a92872f06e26bd?w=234&h=240&f=png&s=18329)
 
   
