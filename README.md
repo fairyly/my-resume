@@ -21,14 +21,21 @@
 
 ## 技术能力
 
+* 截止2019年5月，目前主要技术栈：
+  - `Vue+Vuex+Vue-router+Axios+ElementUI/Vantui`;
+  - `react+react-router+react-redux+antd+Axios`;
+  - `Express/Egg+egg-mongoose`;
+  - `PHP+MySQL`
+
+
 * 热爱 web 前端开发，熟练掌握 JavaScript、HTMl5、CSS3、Ajax、Json 以及 JavaScript 框架来搭建 web 应用
 * 熟悉原生 JavaScript 和 JavaScript 类库的使用
-* 掌握的 JavaScript 框架：Vue.js，了解过 Angular.js、 React.js
+* 掌握的 JavaScript 框架：Vue.js，了解过 React.js
 * 掌握的 CSS 预编译器：Less、Sass
 * 掌握 JavaScript 模块加载器：RequireJS,了解过 Browserify、sea.js
 * 掌握项目构建和包管理工具：Npm、Yarn、Gulp、 webpack
 * 熟练掌握版本管理工具：Git、SVN
-* 熟练微信小程序开发
+* 熟练微信小程序和支付宝小程序开发
 * 熟悉 Hybrid H5 混合开发
 * 熟悉 PHP 开发
 * 熟悉 NodeJS、Express、MongoDB
