@@ -45,7 +45,7 @@
 * 了解 HTTP 协议以及浏览器运行原理
 * 了解 ECMAScript6 以及 javascript 设计模式
 * 了解前端测试框架以及工具：Mocha、Karma、断言库 Chai 
-* 了解 Linux, 在阿里云ECS服务器中配置 Node 服务器，部署 E
+* 了解 Linux, 在阿里云ECS服务器中配置 Node 服务器，部署 Egg.js
 
 
 ## 工作经历
