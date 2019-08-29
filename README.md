@@ -106,6 +106,10 @@
     - [后端 API: Egg.js](https://github.com/fairyly/eggdemo/tree/eggpro)
       - [Egg 入门笔记](https://github.com/fairyly/eggdemo/tree/gh-pages)
 
+  + API 网关平台
+  
+  + 开放平台
+
 - 杭州微禾迅科技有限公司（2017.3——2017.9）   
   + 开发公司网站 [涂图](https://tutucloud.com)  [TUTU Magic SDK](https://magic.tutucloud.com/)  
     - 主要是基于 YII 框架的开发，负责网站前端页面渲染和页面交互以产品展示模块的开发，  
