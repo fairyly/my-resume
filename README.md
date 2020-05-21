@@ -109,6 +109,8 @@
   + 2019-API 网关平台
   
   + 2019-开放平台
+  
+  + 2020-企业微信
 
 - 杭州微禾迅科技有限公司（2017.3——2017.9）   
   + 2017-开发公司网站 [涂图](https://tutucloud.com)  [TUTU Magic SDK](https://magic.tutucloud.com/)  
