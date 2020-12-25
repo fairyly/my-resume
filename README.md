@@ -28,9 +28,9 @@
 ## 技术能力
 
 * 截止2019年5月，目前主要技术栈：
-  - `Vue+Vuex+Vue-router+Axios+ElementUI/Vantui`;
-  - `react+react-router+react-redux+antd+Axios`;
-  - `Express/Egg+egg-mongoose`;
+  - `Vue+Vuex+Vue-router+Axios+ElementUI/Vant`;
+  - `React+React-router+React-redux+Antd+Axios`;
+  - `Express/Egg+Egg-mongoose`;
   - `PHP+MySQL`
 
 
@@ -38,7 +38,7 @@
 * 熟悉原生 JavaScript 和 JavaScript 类库的使用
 * 掌握的 JavaScript 框架：Vue.js，了解过 React.js
 * 掌握的 CSS 预编译器：Less、Sass
-* 掌握 JavaScript 模块加载器：RequireJS,了解过 Browserify、sea.js
+* 掌握 JavaScript 模块加载器：RequireJS,了解过 Browserify、Sea.js
 * 掌握项目构建和包管理工具：Npm、Yarn、Gulp、 webpack
 * 熟练掌握版本管理工具：Git、SVN
 * 熟练微信小程序和支付宝小程序开发
@@ -99,12 +99,12 @@
     - [掘金文章](https://juejin.im/post/5b5d7c7951882562b92491d8)
     - [Hapi-demo](https://github.com/fairyly/Hapi-demo)
 
-  + 2018使用 docker 部署
+  + 2018使用 Docker 部署
     - [docker 笔记](https://github.com/fairyly/docker_study)
     
-  + 2018开发 vue 2.x UI-Toolkit
+  + 2018开发 Vue 2.x UI-Toolkit
   
-  + 2018-使用 vue-cli3 + vant 开发移动端项目
+  + 2018-使用 Vue-cli3 + vant 开发移动端项目
 
   + 2019-用户管理小系统
     - [前端：react16.8-antd3.15-demo](https://github.com/react-study-demo/react16.8-antd3.15-demo)
@@ -122,7 +122,7 @@
   + 2017-开发公司网站 [涂图](https://tutucloud.com)  [TUTU Magic SDK](https://magic.tutucloud.com/)  
     - 主要是基于 YII 框架的开发，负责网站前端页面渲染和页面交互以产品展示模块的开发，  
     - 人脸检测,年龄检测,性别检测,人脸标点等 demo 的开发和接口对接，  
-    - 使用 Gulp 构建，scss 预编译；
+    - 使用 Gulp 构建，Scss 预编译；
   + 2017-开发地铁安防项目   
     - 采用前后端分离开发，主要负责前端所有页面展示和交互以及与后台接口对接，使用 Vuejs+ElementUI 开发整个前端部分；
   + 2017-开发考试作弊检测项目  
@@ -140,7 +140,7 @@
   + 负责商城网站的页面改版，修改网站前端样式
   + 负责搭建公司网站以及对公司网站页面样式重写
   + 熟悉原生的js和js的原型，对前端自动化和模块化也有了进一步了解，对前端的MVC也进一步熟悉
-  + 熟悉源码建站，熟练掌握论坛网站（如 Discuz! 和 phpwind ）、商城网站（如 ECSHOP ）、企业网站、博客网站以及织梦（ DEDECMS ）、帝国（ EmpireCMS ）等CMS网站的搭建和部署；
+  + 熟悉源码建站，熟练掌握论坛网站（如 Discuz! 和 Phpwind ）、商城网站（如 ECSHOP ）、企业网站、博客网站以及织梦（ DEDECMS ）、帝国（ EmpireCMS ）等CMS网站的搭建和部署；
 
 ## 微信小程序 预览
 
