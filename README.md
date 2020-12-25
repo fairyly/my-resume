@@ -2,6 +2,12 @@
 
 我的个人简历
 
+>大学学 Java，毕业后自学前端，一直从事前端开发工作，从最开始用 jQuery 到 Vue、React，  
+前几年的很多时候给一些小公司开发部署一些公司网站，和香港主机商也有一些合作，  
+目前主要是在公司内做业务，负责移动端项目组前端的整个开发工作，小程序、移动端web、中后台项目，  
+平时常去掘金社区和 Github，   
+对后端也有一点了解，学过 PHP、Python、看过 Linux、Nginx  
+
 
 ## 个人信息
 
@@ -39,11 +45,11 @@
 * 熟悉 Hybrid H5 混合开发
 * 熟悉 PHP 开发
 * 熟悉 NodeJS、Express、MongoDB
-* 熟练使用 python3 开发网路爬虫
-* 了解 egg、koa 、Java、Jsp、MySQL
+* 熟练使用 Python3 开发网路爬虫
+* 了解 Egg、Koa 、Java、Jsp、MySQL
 * 了解 AMD 和 CMD 规范
 * 了解 HTTP 协议以及浏览器运行原理
-* 了解 ECMAScript6 以及 javascript 设计模式
+* 了解 ECMAScript6 以及 JavaScript 设计模式
 * 了解前端测试框架以及工具：Mocha、Karma、断言库 Chai 
 * 了解 Linux, 在阿里云ECS服务器中配置 Node 服务器，部署 Egg.js
 
@@ -63,7 +69,7 @@
     - 开发表格组件  
     - 使用 wxcharts   
     
-  + 2018-使用 vue+vuerouter+elementui 开发观云台后台  
+  + 2018-使用 Vue+Vuerouter+ElementUI 开发观云台后台  
     - 开发 Vue 插件，打包发布公司私有 cnpm 服务器  
 
   + 2018-看 NodeJS API    
@@ -72,7 +78,7 @@
     - [heroku 部署](https://github.com/fairyly/html-demo/blob/gh-pages/heroku%20%E9%83%A8%E7%BD%B2.md)  
     - [使用 node+express+mongodb 开发博客系统](https://desolate-coast-83590.herokuapp.com/posts)  
     
-  + 2018-使用 vue+vuerouter+elementui 开发集团后台  
+  + 2018-使用 Vue+Vuerouter+ElementUI 开发集团后台  
     - 开发 vue 公共组件，公共插件发布 cnpm 服务器，  
       比较复杂的如：会员开卡字段自定义配置模板组件、人群筛选器插件、会员标签配置系统、积分归属结算组件  
     - 写文档，指导公司前端开发 vue 插件，并发布到服务器
@@ -118,7 +124,7 @@
     - 人脸检测,年龄检测,性别检测,人脸标点等 demo 的开发和接口对接，  
     - 使用 Gulp 构建，scss 预编译；
   + 2017-开发地铁安防项目   
-    - 采用前后端分离开发，主要负责前端所有页面展示和交互以及与后台接口对接，使用 vuejs+elementUI 开发整个前端部分；
+    - 采用前后端分离开发，主要负责前端所有页面展示和交互以及与后台接口对接，使用 Vuejs+ElementUI 开发整个前端部分；
   + 2017-开发考试作弊检测项目  
     - 前后端分离，负责开发前端所有页面渲染和页面交互，主要使用 Jquery 做页面交互、分页以及接口对接，使用 Gulp 构建
   + 工作期间接触 PHP 较多，学习 PHP 开发，使用 ThinkPHP5 开发个人项目,[之梦信息发布系统](http://yuelao.ahchaonong.com)
